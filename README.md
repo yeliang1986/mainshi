@@ -1,4 +1,7 @@
 # mainshi
+
+maven编译后执行 "mvn exec:java"
+
 coding test：
  coding test目标
  请说明项目打包和执行的方式
